@@ -1,0 +1,12 @@
+../Core/Src/external_flash.c:157:19:read_alarm_records	8
+../Core/Src/external_flash.c:210:6:compare_weekly_rtc	8
+../Core/Src/external_flash.c:273:6:compare_rtc	8
+../Core/Src/external_flash.c:322:6:ExtractWeeklyRecords	8
+../Core/Src/external_flash.c:418:6:check_specific_record	3
+../Core/Src/external_flash.c:443:6:ExtractRecords	7
+../Core/Src/external_flash.c:555:6:sendMatchedIndices	2
+../Core/Src/external_flash.c:569:6:PrintValidRecords	3
+../Core/Src/external_flash.c:594:6:PrintWeeklyValidRecords	5
+../Core/Src/external_flash.c:621:6:DeleteRecordByIndex	5
+../Core/Src/external_flash.c:60:19:store_alarm	7
+../Core/Src/external_flash.c:686:6:externalFlashWrite	6

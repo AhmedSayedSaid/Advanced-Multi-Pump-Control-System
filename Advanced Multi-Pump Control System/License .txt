@@ -1,0 +1,15 @@
+Copyright (c) 2023, Ahmed Sayed of GATA
+
+All rights reserved.
+
+License Terms and Conditions:
+
+Restriction of Use: The source code, documentation, and other materials contained in this project ("Materials") are the exclusive property of Ahmed Sayed of GATA. Any use, reproduction, modification, distribution, or storage of the Materials, in whole or in part, is strictly prohibited without the prior written permission of Ahmed Sayed of GATA.
+
+Permission Request: To request permission to use, reproduce, modify, distribute, or store the Materials, contact Ahmed Sayed at [ahmed.elsayed.elsaid2@gmail.com].
+
+No Warranty: The Materials are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Liability Limitation: In no event shall Ahmed Sayed of GATA be liable for any claim, damages, or other liability arising from, out of, or in connection with the Materials or the use or other dealings in the Materials.
+
+By accessing, using, or interacting with the Materials in any manner, you acknowledge that you have read, understood, and agreed to be bound by these terms and conditions.

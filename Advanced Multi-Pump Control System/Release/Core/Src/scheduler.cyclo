@@ -1,0 +1,5 @@
+../Core/Src/scheduler.c:20:16:calculateElapsedDays.isra	14
+../Core/Src/scheduler.c:153:6:Sort_Pumps_By_changeOverTime	8
+../Core/Src/scheduler.c:204:6:Sort_Pumps_By_Working_Hours_and_Minutes	6
+../Core/Src/scheduler.c:238:6:Sort_Pumps_By_Working_Hours	4
+../Core/Src/scheduler.c:257:6:Update_Working_Time	13

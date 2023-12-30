@@ -1,0 +1,13 @@
+../Core/Src/backup_resgisters_operations.c:25:7:write_backup_register	1
+../Core/Src/backup_resgisters_operations.c:33:11:read_backup_register	1
+../Core/Src/backup_resgisters_operations.c:43:6:write_pump_data_to_backup_registers	2
+../Core/Src/backup_resgisters_operations.c:60:6:delete_pump_data_from_backup_registers	1
+../Core/Src/backup_resgisters_operations.c:71:6:restore_pump_data	3
+../Core/Src/backup_resgisters_operations.c:95:6:store_factory_page_data	1
+../Core/Src/backup_resgisters_operations.c:159:6:delete_factory_data_from_backup_registers	1
+../Core/Src/backup_resgisters_operations.c:167:6:restore_factory_page_data	2
+../Core/Src/backup_resgisters_operations.c:236:6:store_internal_system__data	1
+../Core/Src/backup_resgisters_operations.c:249:6:restore_internal_system_data	2
+../Core/Src/backup_resgisters_operations.c:265:6:delete_internal_system_data_from_backup_domain_registers	1
+../Core/Src/backup_resgisters_operations.c:273:6:store_alarm_data	1
+../Core/Src/backup_resgisters_operations.c:287:6:restore_alarm_data	2

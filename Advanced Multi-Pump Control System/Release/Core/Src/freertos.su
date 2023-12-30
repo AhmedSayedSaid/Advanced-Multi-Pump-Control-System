@@ -1,0 +1,10 @@
+../Core/Src/freertos.c:409:6:StartDefaultTask	96	static
+../Core/Src/freertos.c:583:6:UART1_task	296	static
+../Core/Src/freertos.c:1026:6:ADC_4_20mApolling	32	static
+../Core/Src/freertos.c:1106:6:StartTaskMaster	48	static
+../Core/Src/freertos.c:1195:6:external_flash	48	static
+../Core/Src/freertos.c:1448:6:UART_Send	224	static
+../Core/Src/freertos.c:1923:6:PIDControl	80	static
+../Core/Src/freertos.c:2743:7:Pumps_Scheduler	24	static
+../Core/Src/freertos.c:322:6:vApplicationStackOverflowHook	8	static
+../Core/Src/freertos.c:340:6:MX_FREERTOS_Init	8	static

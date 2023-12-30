@@ -1,0 +1,4 @@
+../Core/Src/UARTCallback.c:24:6:HAL_UART_TxCpltCallback	4
+../Core/Src/UARTCallback.c:60:6:HAL_UART_RxCpltCallback	5
+../Core/Src/UARTCallback.c:101:6:HAL_UART_ErrorCallback	21
+../Core/Src/UARTCallback.c:127:6:HAL_UARTEx_RxEventCallback	23
