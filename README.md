@@ -30,9 +30,6 @@ This documentation includes:
 - Operational Functionality
 - User Interaction and Control
 
-## Target Audience
-
-This documentation is designed for a broad audience, including system operators, technicians, control system engineers, industrial managers, educational institutions, technical support staff, and the general public.
 
 ## High-Level System Diagram and Description of System Components and Their Interactions
 
