@@ -47,13 +47,13 @@ This documentation includes:
 
   ![Login Screen](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/login.png)
 
-- **Full System Condition Monitor**: Through a dedicated control panel.
-
-  ![Control Panel](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_alarm.png)
-
-- **Manual Control Over Each Individual VFD**:
+- **Full System Condition Monitor and Manual Control Over Each Individual VF**: Through a dedicated control panel.
 
   ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/manual-control.png)
+
+  
+  ![Graph](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/data-Graph.png)
+
 
 - **System User Access to All System Parameters**:
 
@@ -65,7 +65,7 @@ This documentation includes:
 
 - **Current System Alarm and Warnings and History of Each Event Happened on the System**:
 
-  ![System Alarms](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/homePage.png)
+  ![System Alarms](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_alarm.png)
 
 - **The Ability to Send Any Custom Order to Any Modbus Slave or Read Data from It**:
 
@@ -92,6 +92,8 @@ This documentation includes:
 ### Control Algorithm
 
 - **STM32 Microcontroller**: Employs a PID algorithm for precise control of pressure levels, alongside a scheduling algorithm to balance pump operation hours. Up to 8 pumps can be managed, dynamically controlling their operation to maintain optimal pressure.
+
+  ![system_Architecture](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_Architecture.png)
 
 ## Workflow
 
