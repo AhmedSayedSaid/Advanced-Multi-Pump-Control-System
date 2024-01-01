@@ -18,18 +18,6 @@ Leveraging the Modbus communication protocol, the system offers compatibility wi
 
 Accessibility is further enhanced through a bar-code scanning feature, allowing quick and easy connection to the system. The system archives a detailed history of alarms, facilitating effective troubleshooting and maintenance. Additionally, a dedicated monitoring panel is available for each pump, displaying vital data such as current speed, actual pressure, and target set points through interactive graphs and visualizations.
 
-## Purpose
-
-The primary purpose of this documentation is to provide an exhaustive and comprehensive understanding of the Advanced Multi-Pump Control System. It is designed to detail the system's design, functionalities, operational procedures, and the underlying code modules. The document serves as an all-encompassing guide, covering both the theoretical underpinnings and practical implementations of the system, from its architectural composition to the intricate details of its software modules and control mechanisms.
-
-## Scope
-
-This documentation includes:
-
-- System Architecture and Code Modules
-- Operational Functionality
-- User Interaction and Control
-
 
 ## High-Level System Diagram and Description of System Components and Their Interactions
 
@@ -39,7 +27,7 @@ This documentation includes:
 
 - **Mobile App**: Provides on-the-go access and system control.
 - **Web App**: Allows access via web browsers for a more comprehensive view.
-- **Desktop App**: Offers robust functionalities for advanced users.
+
 
 ### FEATURES THAT THE SYSTEM PROVIDE
 
@@ -73,12 +61,12 @@ This documentation includes:
 
 ### Dedicated Mobile App
 
-- **Mobile Application Screenshots**:
+- **Android /IOS Mobile Applications for the system **:
 
   <p float="left">
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="200" />
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="200" /> 
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="200" />
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="300" />
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="300" /> 
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="300" />
 </p>
 
 
@@ -104,4 +92,4 @@ This documentation includes:
 5. **Control and Efficiency Algorithms**: The STM32 executes PID and scheduling algorithms for optimal operation.
 6. **User Interaction**: Depending on access level, users can monitor or control the system.
 
-For more details, see the full documentation which is inside the project folder.
+For more details , see the full documentation which is inside the project folder.
