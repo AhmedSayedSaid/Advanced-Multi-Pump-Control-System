@@ -49,35 +49,36 @@ This documentation includes:
 
 - **Full System Condition Monitor**: Through a dedicated control panel.
 
-  ![Control Panel](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/control panel.png)
+  ![Control Panel](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_alarm.png)
 
 - **Manual Control Over Each Individual VFD**:
 
-  ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/manual control.png)
+  ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/manual-control.png)
 
 - **System User Access to All System Parameters**:
 
-  ![System Parameters](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system parameters.png)
+  ![System Parameters](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_parameters.png)
 
 - **Scheduler to Set When the System PID Should Work on a Regular Basis or on Dated Basis**:
 
-  ![Scheduler](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/scheduler.png)
+  ![Scheduler](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/SCHEDULER.png)
 
 - **Current System Alarm and Warnings and History of Each Event Happened on the System**:
 
-  ![System Alarms](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/alarms.png)
+  ![System Alarms](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/homePage.png)
 
 - **The Ability to Send Any Custom Order to Any Modbus Slave or Read Data from It**:
 
-  ![Custom Order](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/custom order.png)
+  ![Custom Order](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/send_custom_order.png)
 
 ### Dedicated Mobile App
 
 - **Mobile Application Screenshots**:
 
-  ![Mobile App Screen 1](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/mobile app-1.png)
-  ![Mobile App Screen 2](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/mobile app-2.png)
-  ![Mobile App Screen 3](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/mobile app-3.png)
+  ![Mobile App Screen 1](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png)
+  ![Mobile App Screen 2](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png)
+  ![Mobile App Screen 3](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png)
+
 
 ### Communication Layer
 
