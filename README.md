@@ -64,9 +64,9 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 - **Android /IOS Mobile Applications for the system **:
 
   <p float="left">
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="300" />
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="300" /> 
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="300" />
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="250" />
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="250" /> 
+  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="250" />
 </p>
 
 
