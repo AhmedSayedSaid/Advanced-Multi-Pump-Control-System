@@ -37,7 +37,7 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
 - **Full System Condition Monitor and Manual Control Over Each Individual VF**: Through a dedicated control panel.
 
-  ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/manual-control.png)
+  ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/ManualControl.png)
 
   
   ![Graph](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/data-Graph.png)
