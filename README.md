@@ -47,11 +47,11 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
   ![System Parameters](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_parameters.png)
 
-- **Scheduler to Set When the System PID Should Work on a Regular Basis or on Dated Basis**:
+- **Scheduler to Set When the System PID Should Work on a Regular Basis or on Dated Basis that is internally stored in a dedicated external flash**:
 
   ![Scheduler](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/SCHEDULER.png)
 
-- **Current System Alarm and Warnings and History of Each Event Happened on the System**:
+- **Current System Alarm and Warnings and History of Each Event Happened on the System that is Internally Stored In A Dedicated External Flash**:
 
   ![System Alarms](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_alarm.png)
 
@@ -61,7 +61,7 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
 ### Dedicated Mobile App
 
-- **Android /IOS Mobile Applications for the system **:
+- **Android /IOS Mobile Applications for the system**:
 
   <p float="left">
   <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="250" />
@@ -70,16 +70,6 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 </p>
 
 
-
-### Communication Layer
-
-- **Bluetooth Low Energy (BLE)**: Facilitates wireless connectivity for user commands and data visualization.
-- **QR Code Scanning**: Provides a method for device identification and connection establishment using bar code scanning that connect to the board directly through Bluetooth Low Energy.
-- **ESP Module**: Acts as the central communication hub, managing access levels and data transmission.
-
-### Control Algorithm
-
-- **STM32 Microcontroller**: Employs a PID algorithm for precise control of pressure levels, alongside a scheduling algorithm to balance pump operation hours. Up to 8 pumps can be managed, dynamically controlling their operation to maintain optimal pressure.
 
   ![system_Architecture](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_Architecture.png)
 
