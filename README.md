@@ -18,7 +18,6 @@ Leveraging the Modbus communication protocol, the system offers compatibility wi
 
 Accessibility is further enhanced through a bar-code scanning feature, allowing quick and easy connection to the system. The system archives a detailed history of alarms, facilitating effective troubleshooting and maintenance. Additionally, a dedicated monitoring panel is available for each pump, displaying vital data such as current speed, actual pressure, and target set points through interactive graphs and visualizations.
 
-
 ## High-Level System Diagram and Description of System Components and Their Interactions
 
 ## Features
@@ -27,7 +26,6 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
 - **Mobile App**: Provides on-the-go access and system control.
 - **Web App**: Allows access via web browsers for a more comprehensive view.
-
 
 ### FEATURES THAT THE SYSTEM PROVIDE
 
@@ -39,9 +37,7 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
   ![Manual Control](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/ManualControl.png)
 
-  
   ![Graph](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/data-Graph.png)
-
 
 - **System User Access to All System Parameters**:
 
@@ -63,13 +59,11 @@ Accessibility is further enhanced through a bar-code scanning feature, allowing 
 
 - **Android /IOS Mobile Applications for the system**:
 
-  <p float="left">
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="250" />
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="250" /> 
-  <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="250" />
-</p>
-
-
+    <p float="left">
+    <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app.png" width="250" />
+    <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_2.png" width="250" /> 
+    <img src="https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_app_pic_3.png" width="250" />
+  </p>
 
   ![system_Architecture](https://github.com/AhmedSayedSaid/Advanced-Multi-Pump-Control-System/blob/main/Advanced%20Multi-Pump%20Control%20System/app-images/system_Architecture.png)
 
